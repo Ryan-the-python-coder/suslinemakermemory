@@ -24,6 +24,9 @@ We welcome contributions from the community! To suggest new sus lines, templates
 > Only approved lines will appear in the Sus Line Maker generator.
 
 # License
+
+> Note: The Sus Line Maker generator code is in a separate repository and is licensed under a software license (MIT/Apache 2.0). This CC license applies **only** to the data in this repository.
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
