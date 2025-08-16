@@ -1,6 +1,20 @@
 # Memory for the Sus Line Maker
-There is nothing useful here except for if you want to see that data that powers the Sus Line Maker.
-But to prevent use of data in an unpermitted way, there is a license.
+
+This repository contains the word banks, templates, and approved lines that power the Sus Line Maker AI generator.
+
+> ⚠️ This data is intended for use with the Sus Line Maker only. Please respect the license and do not use it in unpermitted ways.
+
+# Contributing
+
+We welcome contributions from the community! To suggest new sus lines, templates, or words:
+
+1. **Fork** this repository.
+2. Add your submission(s) to `sus_lines.txt` (one line per entry) or update the files in the `data/` folder for new words/templates.
+3. **Submit a Pull Request** to the main repository.
+4. All submissions will be **reviewed before being approved** and moved to the `approved/` folder.
+
+> Please do not submit lines to the `approved` folder directly. Only approved lines will appear in the Sus Line Maker generator.
+
 # License
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
