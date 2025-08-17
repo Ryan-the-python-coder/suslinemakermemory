@@ -2,11 +2,11 @@
 
 This repository contains the word banks, templates, and approved lines that power the Sus Line Maker AI generator.
 
-⚠️ **WARNING: SUS CONTENT AHEAD** ⚠️
+⚠️ **WARNING: SUGGESTIVE CONTENT AHEAD** ⚠️
 
 This repository contains lines that are **playfully suggestive, and innuendo-filled**.  
 
-If you are easily offended or not comfortable with cheeky humor, **do not read or use these lines**.  
+If you are easily offended or not comfortable with suggestive humor, **do not read or use these lines**.  
 
 These lines are intended for **entertainment and harmless fun only** — use responsibly.
 
