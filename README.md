@@ -10,6 +10,8 @@ If you are easily offended or not comfortable with suggestive humor, **do not re
 
 These lines are intended for **entertainment and harmless fun only** — use responsibly.
 
+This is only the memory. You may go to [suslinemaker](https://github.com/Ryan-the-python-coder/suslinemaker) to run the script.
+
 > This data is intended for use with the Sus Line Maker only. Please respect the license and do not use it in unpermitted ways.
 
 # Contributing
@@ -17,7 +19,7 @@ These lines are intended for **entertainment and harmless fun only** — use res
 We welcome contributions from the community! To suggest new sus lines, templates, or words:
 
 1. **Fork** this repository.
-2. Add your submission(s) to `sus_lines.txt` (one line per entry) or update the files in the `data/` folder for new words/templates.
+2. Add your submission(s) to `sus_lines.txt` (one line per entry).
 3. **Submit a Pull Request** to the main repository.
 4. All submissions will be **reviewed before being approved** and moved to the `main` branch.
 
